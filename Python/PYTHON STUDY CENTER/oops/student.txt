@@ -1,0 +1,3 @@
+thomas,27,ece,37
+saju,45,cse,67
+vishnu,23,mech,56
