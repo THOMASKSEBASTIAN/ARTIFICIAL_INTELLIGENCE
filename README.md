@@ -58,3 +58,7 @@ Introduction of [Neural Networks](https://www.ibm.com/cloud/learn/neural-network
 
 Traffic signal [detection](https://www.analyticsvidhya.com/blog/2021/12/traffic-signs-recognition-using-cnn-and-keras-in-python/)
 
+### Potato disease prediction
+
+Done potato disese prediction project(using TensorFlow and Keras)
+
