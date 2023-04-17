@@ -12,6 +12,9 @@ Introduction of [Matplotlib](https://youtu.be/c47ZFbAWaNg)
 Introduction of [Numpy](https://youtu.be/NVTWjd_UpzM)
 
 
+Introduction of [Seaborn](https://pianalytix.com/data-visualization-using-seaborn-and-types-of-plots-in-seaborn/)
+
+
 
 Introduction of [Machine_Learning](https://www.analyticsvidhya.com/machine-learning/)
 
