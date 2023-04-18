@@ -37,7 +37,7 @@ Polynomial [Regression](https://www.analyticsvidhya.com/blog/2021/07/all-you-nee
  
  
  
-  Voting [classifier] (https://towardsdatascience.com/use-voting-classifier-to-improve-the-performance-of-your-ml-model-805345f9de0e#:~:text=A%20voting%20classifier%20is%20a,voting%20for%20each%20estimator%20output.)
+  Voting [classifier](https://towardsdatascience.com/use-voting-classifier-to-improve-the-performance-of-your-ml-model-805345f9de0e#:~:text=A%20voting%20classifier%20is%20a,voting%20for%20each%20estimator%20output.)
  
 
 ## Deep_Learning
