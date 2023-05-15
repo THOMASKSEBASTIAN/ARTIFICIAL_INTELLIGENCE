@@ -44,7 +44,7 @@ Polynomial [Regression](https://www.analyticsvidhya.com/blog/2021/07/all-you-nee
 
 ### CNN or ConvNet
 
-Introduction of [CNN or ConvNet]([https://www.ibm.com/cloud/learn/neural-networks#:~:text=Neural%20networks%2C%20also%20known%20as,neurons%20signal%20to%20one%20another.](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/))
+Introduction of [CNN or ConvNet](https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/)
 
 
 ### OCR
